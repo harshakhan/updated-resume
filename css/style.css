@@ -193,8 +193,8 @@ section{
 .section-title::after{
     content: "";
     position: absolute;
-    width: 16px;
-    height: 10px;
+    width: 26px;
+    height: 18px;
     background-color: #48dbfb;
     border: 4px solid #f1f1f1;
     left: calc(50% - 12px);
